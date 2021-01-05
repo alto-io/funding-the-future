@@ -14,7 +14,7 @@
     "@devexpress/dx-react-grid-bootstrap4": "^2.0.2",
     "@rebass/forms": "^4.0.6",
     "@rebass/preset": "^4.0.5",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-loader": "^8.0.6",
     "ethereumjs-util": "^5.1.1",
     "ethjs-query": "^0.3.8",
